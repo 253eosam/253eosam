@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## 🔎 History
+## 💻 Experience
 <details>
     <summary>We Make Price (20.07 ~ ) | FE </summary>
 </details>
