@@ -49,8 +49,6 @@
     <a href="https://github.com/DDD05"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 </div>
 
-<br>
-
 <div id="stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DDD05" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDD05&layout=compact" />
