@@ -4,10 +4,10 @@
 
 ## 🔎 History
 <details>
-    <summary>We Make Price</summary>
+    <summary>We Make Price (20.07 ~ ) | FE </summary>
 </details>
 <details>
-  <summary>SSAFY 2</summary>
+  <summary>SSAFY 2 (19.07 ~ 20.06)</summary>
 
 ## **SSAFY menu alert - slack chatbot** (19.07) | Full Stack
 
@@ -21,7 +21,7 @@
 
 </details>
 <details>
-  <summary>Kumoh Univ</summary>
+  <summary>Kumoh Univ (13.03 ~ 19.08)</summary>
   ### 
 </details>
 
