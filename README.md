@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=SeongjunLee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=Seongjun%20Lee&fontSize=90)
 
 ### Hi there 👋
 
