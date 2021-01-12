@@ -15,6 +15,7 @@
 <a href="https://flask.palletsprojects.com/en/1.1.x/"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <a href="https://ngrok.com/"><img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white"/></a>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=MenuAlarm-slackChatBot)](https://github.com/DDD05/MenuAlarm-slackChatBot)
 
 
