@@ -42,7 +42,7 @@
 
 ## :octocat: My Github Stats
 
-<div id="my" align="center">
+<div id="my">
     <a href="mailto:dhzm2aud@naver.com"><img src="https://img.shields.io/badge/dhzm2aud@naver.com-D14836?style=flat-square&logo=GMail&logoColor=white"/></a>&nbsp 
     <a href="https://www.instagram.com/lee.ddd05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
     <a href="https://www.notion.so/donaldd/3c084da936934ee9a3e5a55f31e4ea80"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
