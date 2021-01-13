@@ -4,10 +4,10 @@
 
 ## 💻 Experience
 <details>
-    <summary>We Make Price (20.07 ~ ) | FE </summary>
+    <summary><b>We Make Price (20.07 ~ ) | FE</b></summary>
 </details>
 <details>
-  <summary>SSAFY 2 (19.07 ~ 20.06)</summary>
+  <summary>👨‍💻 SSAFY 2 (19.07 ~ 20.06)</summary>
 
 ## **SSAFY menu alert - slack chatbot** (19.07) | Full Stack
 
@@ -21,7 +21,7 @@
 
 </details>
 <details>
-  <summary>Kumoh Univ (13.03 ~ 19.08)</summary>
+  <summary>👨‍🎓 Kumoh Univ (13.03 ~ 19.08)</summary>
   ### 
 </details>
 
