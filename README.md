@@ -28,8 +28,6 @@ You can see as much as you know, So let's try to find out!!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=To-do-list-noti2007)](https://github.com/DDD05/To-do-list-noti2007)
 
-<hr>
-
 ## **Trello** (20.07 ~ 20.08)
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
