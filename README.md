@@ -23,7 +23,7 @@ You can see as much as you know, So let's try to find out!!
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=To-do-list-noti2007)](https://github.com/DDD05/To-do-list-noti2007)
