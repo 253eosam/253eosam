@@ -104,13 +104,9 @@ You can see as much as you know, So let's try to find out!!
 
 ## 📝 Study Note
 
-<div id="study_note" aligin="center">
-
 [CS Study Group](https://github.com/DDD05/a-wise-development-life)
 
 [Algorithm](https://github.com/DDD05/algorithm)
-
-</div>
 
 <br>
 
