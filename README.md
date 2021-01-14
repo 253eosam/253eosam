@@ -3,22 +3,40 @@
 ### Hi there 👋
 
 ## 💻 Experience
+
 <details>
     <summary><b>We Make Price (20.07 ~ ) | FE</b></summary>
 </details>
 <details>
   <summary>👨‍💻 SSAFY 2 (19.07 ~ 20.06)</summary>
 
-## **SSAFY menu alert - slack chatbot** (19.07) | Full Stack
+## **요기딱** (20.03 ~ 20.05) | BE & FE & Deploy
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<a href="https://kr.vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=s02p23d105)](https://github.com/DDD05/s02p23d105)
+
+<br>
+
+## **Somebody** (19.12 ~ 20.02) | Project Leader & UI & FE
+
+<a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href="https://kr.vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=s02p13d110)](https://github.com/DDD05/s02p13d110)
+
+<br>
+
+## **SSAFY menu alert** (19.07) | Full Stack
+
 <a href="https://flask.palletsprojects.com/en/1.1.x/"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <a href="https://ngrok.com/"><img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white"/></a>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=MenuAlarm-slackChatBot)](https://github.com/DDD05/MenuAlarm-slackChatBot)
 
-
+<hr>
 </details>
 <details>
   <summary>👨‍🎓 Kumoh Univ (13.03 ~ 19.08)</summary>
@@ -59,4 +77,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDD05&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
