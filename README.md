@@ -131,7 +131,7 @@ You can see as much as you know, So let's try to find out!!
 <div id="my">
     <a href="mailto:dhzm2aud@naver.com"><img src="https://img.shields.io/badge/dhzm2aud@naver.com-D14836?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp 
     <a href="https://www.instagram.com/lee.ddd05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
-    <a href="https://www.notion.so/donaldd/3c084da936934ee9a3e5a55f31e4ea80"><img src="https://img.shields.io/badge/슬기로운%20개발생활-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp 
+    <a href="https://ddd05.github.io/"><img src="https://img.shields.io/badge/슬기로운%20개발생활-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp 
     <a href="https://github.com/DDD05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp 
 </div>
 
