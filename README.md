@@ -23,7 +23,6 @@ You can see as much as you know, So let's try to find out!!
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=To-do-list-noti2007)](https://github.com/DDD05/To-do-list-noti2007)
@@ -132,7 +131,8 @@ You can see as much as you know, So let's try to find out!!
     <a href="mailto:dhzm2aud@naver.com"><img src="https://img.shields.io/badge/dhzm2aud@naver.com-D14836?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp 
     <a href="https://www.instagram.com/lee.ddd05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
     <a href="https://ddd05.github.io/"><img src="https://img.shields.io/badge/슬기로운%20개발생활-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp 
-    <a href="https://github.com/DDD05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp 
+    <a href="https://github.com/DDD05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
+    <a href="https://www.notion.so/donaldd/About-e6685e53f5b64a8da1ca60270cb8aef4"><img src="https://img.shields.io/badge/About-efefef?style=for-the-badge&logo=Notion&logoColor=black"/></a>&nbsp
 </div>
 
 <br>
