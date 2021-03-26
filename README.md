@@ -1,6 +1,5 @@
-<div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=DDD05&label=Profile%20views&color=0e75b6&style=flat" alt="DDD05" />
-</div>
+<!-- <img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=Seongjun%20Lee&fontSize=90" /> -->
+<img align="right" src="https://komarev.com/ghpvc/?username=DDD05&label=Profile%20views&color=0e75b6&style=flat" alt="DDD05" />
 
 ### Hi there 👋
 
