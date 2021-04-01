@@ -36,7 +36,7 @@ You can see as much as you know, So let's try to find out!!
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=Trello_web)](https://github.com/DDD05/Trello_web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=Trello_clone)](https://github.com/DDD05/Trello_clone)
 
 <hr>
 
