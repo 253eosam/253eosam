@@ -127,8 +127,6 @@ I usually enjoy clone coding.
 
 [Algorithm](https://github.com/DDD05/algorithm)
 
-[CodePen](https://codepen.io/your-work/?cursor=ZD0wJm89MSZwPTEmdj00NzExNDA4OA==)
-
 <br>
 
 ## :octocat: My Github Stats
