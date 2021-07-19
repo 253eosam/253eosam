@@ -7,10 +7,11 @@ Good day!
 
 I am a front-end engineer from South Korea 👨‍💻🇰🇷..
 
-I usually enjoy clone coding.
+Like coffee, chatter, and people.
 
-I like coffee, chatter, and people, and
-my motto is 'You can see as much as you know, So let's try to find out!!'
+Enjoy clone coding.
+
+Motto is 'You can see as much as you know, So let's try to find out!!'
 
 <br>
 
