@@ -19,29 +19,26 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 
 <details>
     <summary><b>We Make Price (20.07 ~ now) | FE</b></summary>
-
-## **To Do List** (21.01 ~ 21.01)
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=To-do-list-noti2007)](https://github.com/DDD05/To-do-list-noti2007)
-
-## **Trello** (20.07 ~ 20.08)
-
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=Strapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=Trello_clone)](https://github.com/DDD05/Trello_clone)
-
+    
+#### 위메프 투어 서비스 & 투어 admin
+    
+    > Vue TS 사용을 위한 vue-class-component기반인 vue-property decorator lib를 사용, vuex는 vuex-class lib를 사용하여 개발
+    
+    - 달력별 가격 보기 (PC)
+    - 컬쳐 Mobile 프로젝트 이관(JSP -> Vue.js)
+    
+#### 위메프 WSIN Admin
+    
+    > 컴포넌트 구조 설계시 atomic design을 사용하여 개발
+    > Composition API를 적용 
+    > quasar UI Framework 이용
+    
+    - 검색 조건에 맞는 결과 리스트 페이지 제작 (Vue.js)
+    
+#### 위메프 admin
+    
+    - 검색 조건에 맞는 결과 리스트 페이지 제작 (React)
+    
 <hr>
 
 </details>
