@@ -1,5 +1,5 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=Seongjun%20Lee&fontSize=90" /> -->
-<img align="right" src="https://komarev.com/ghpvc/?username=DDD05&label=Profile%20views&color=0e75b6&style=flat" alt="DDD05" />
+<img align="right" src="https://komarev.com/ghpvc/?username=253eosam&label=Profile%20views&color=0e75b6&style=flat" alt="253eosam" />
 
 ### Hi there 👋
 
@@ -52,7 +52,7 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=s02p31d104)](https://github.com/DDD05/s02p31d104)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=253eosam&repo=s02p31d104)](https://github.com/253eosam/s02p31d104)
 
 <br>
 
@@ -63,7 +63,7 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=s02p23d105)](https://github.com/DDD05/s02p23d105)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=253eosam&repo=s02p23d105)](https://github.com/253eosam/s02p23d105)
 
 <br>
 
@@ -74,7 +74,7 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=s02p13d110)](https://github.com/DDD05/s02p13d110)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=253eosam&repo=s02p13d110)](https://github.com/253eosam/s02p13d110)
 
 <br>
 
@@ -84,7 +84,7 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white"/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=MenuAlarm-slackChatBot)](https://github.com/DDD05/MenuAlarm-slackChatBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=253eosam&repo=MenuAlarm-slackChatBot)](https://github.com/253eosam/MenuAlarm-slackChatBot)
 
 <hr>
 </details>
@@ -97,7 +97,7 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDD05&repo=help-me-selecting-menu)](https://github.com/DDD05/help-me-selecting-menu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=253eosam&repo=help-me-selecting-menu)](https://github.com/253eosam/help-me-selecting-menu)
 
   <hr>
 </details>
@@ -122,9 +122,9 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 
 ## 📝 Study Note
 
-[CS Study Group](https://github.com/DDD05/a-wise-development-life)
+[CS Study Group](https://github.com/253eosam/a-wise-development-life)
 
-[Algorithm](https://github.com/DDD05/algorithm)
+[Algorithm](https://github.com/253eosam/algorithm)
 
 <br>
 
@@ -134,7 +134,7 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
     <a href="mailto:dhzm2aud@naver.com"><img src="https://img.shields.io/badge/dhzm2aud@naver.com-D14836?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp 
     <a href="https://www.instagram.com/lee.ddd05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
     <a href="https://ddd05.github.io/"><img src="https://img.shields.io/badge/슬기로운%20개발생활-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp 
-    <a href="https://github.com/DDD05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
+    <a href="https://github.com/253eosam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
     <a href="https://www.notion.so/donaldd/About-e6685e53f5b64a8da1ca60270cb8aef4"><img src="https://img.shields.io/badge/About-efefef?style=for-the-badge&logo=Notion&logoColor=black"/></a>&nbsp
 </div>
 
@@ -142,10 +142,10 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 
 <table id="stats"><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DDD05&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=253eosam&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDD05&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=253eosam&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
