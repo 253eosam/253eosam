@@ -131,11 +131,11 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 ## :octocat: My Github Stats
 
 <div id="my">
-    <a href="mailto:dhzm2aud@naver.com"><img src="https://img.shields.io/badge/dhzm2aud@naver.com-D14836?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp 
-    <a href="https://www.instagram.com/lee.ddd05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
-    <a href="https://ddd05.github.io/"><img src="https://img.shields.io/badge/슬기로운%20개발생활-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp 
+    <a href="mailto:253eosam@gmail.com"><img src="https://img.shields.io/badge/253eosam@gmail.com-D14836?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp 
+    <a href="https://www.instagram.com/l__seongjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
+    <a href="https://253eosam.github.io/"><img src="https://img.shields.io/badge/슬기로운%20개발생활-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp 
     <a href="https://github.com/253eosam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
-    <a href="https://www.notion.so/donaldd/About-e6685e53f5b64a8da1ca60270cb8aef4"><img src="https://img.shields.io/badge/About-efefef?style=for-the-badge&logo=Notion&logoColor=black"/></a>&nbsp
+    <a href="https://www.notion.so/253/About-215e0a0c66f7432290df491e20c0fb23"><img src="https://img.shields.io/badge/About-efefef?style=for-the-badge&logo=Notion&logoColor=black"/></a>&nbsp
 </div>
 
 <br>
