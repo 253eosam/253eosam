@@ -25,6 +25,7 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
     > 컴포넌트 구조 설계시 atomic design을 사용하여 개발
     > Vue2에 Vue3 lib - Composition API를 적용 
     > quasar UI Framework 이용
+    > 기존 프로젝트의 lint구조 변경 [블로그](https://253eosam.github.io/javascript/2021/11/15/eslint-detaiexploring/)
     
     - 검색 조건에 맞는 결과 리스트 페이지 제작 (Vue.js)
     
