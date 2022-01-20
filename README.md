@@ -22,21 +22,10 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
     
 #### 위메프 WSIN Admin
     
-    > 컴포넌트 구조 설계시 atomic design을 사용하여 개발
-    > Vue2에 Vue3 lib - Composition API를 적용 
-    > quasar UI Framework 이용
-    > 기존 프로젝트의 lint구조 변경 [블로그](https://253eosam.github.io/javascript/2021/11/15/eslint-detaiexploring/)
-    
-    - 검색 조건에 맞는 결과 리스트 페이지 제작 (Vue.js)
     
 #### 위메프 투어 서비스 & 투어 admin
     
-    > Vue TS 사용을 위한 vue-class-component기반인 vue-property decorator lib를 사용, vuex는 vuex-class lib를 사용하여 개발
-    
-    - 달력별 가격 보기 (PC)
-    - 컬쳐 Mobile 프로젝트 이관(JSP -> Vue.js)
-    
-<hr>
+---
 
 </details>
 <details>
