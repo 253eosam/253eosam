@@ -106,14 +106,6 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 <br>
 -->
 
-## 📝 Study Note
-
-[CS Study Group](https://github.com/253eosam/a-wise-development-life)
-
-[Algorithm](https://github.com/253eosam/algorithm)
-
-<br>
-
 ## :octocat: My Github Stats
 
 <div id="my">
