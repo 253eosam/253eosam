@@ -112,7 +112,7 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
     <a href="mailto:253eosam@gmail.com"><img src="https://img.shields.io/badge/253eosam@gmail.com-D14836?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp 
     <a href="https://www.instagram.com/l__seongjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
     <a href="https://github.com/253eosam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
-    <a href="hppts://253eosam.oopy.io/about-me"><img src="https://img.shields.io/badge/About_me-efefef?style=for-the-badge&logo=Notion&logoColor=black"/></a>&nbsp
+    <a href="https://253eosam.oopy.io/about-me"><img src="https://img.shields.io/badge/About_me-efefef?style=for-the-badge&logo=Notion&logoColor=black"/></a>&nbsp
 </div>
 
 <br>
