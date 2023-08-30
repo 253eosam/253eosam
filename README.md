@@ -18,14 +18,23 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 ## 💻 Experience
 
 <details>
-    <summary><b>We Make Price (20.07 ~ now) | FE</b></summary>
+    <summary><b>We Make Price (20.07 ~ 23.05) | FE</b></summary>
+
+#### 위메프 통합 어드민 & 파트너 어드민
+    
+    - 특가 스쿼드 참여 : 파트너사의 특가 시스템 환경 개선을위한 목적으로 만들어진 팀.
     
 #### 위메프 WSIN Admin
-    
+    - Vue2 -> Vue3 마이그레이션 (composition api)
+    - ESLint 작업 및 규칙    
+    - 신규 페이지 및 컴포넌트 제작 지원 툴인 CLI 개발
     
 #### 위메프 투어 서비스 & 투어 admin
-    
----
+    - 기능 개선
+    - 기능 추가 : "날짜별 가격 비교" 
+
+#### 위메프 티켓
+    - 서버템플릿엔진을 이용한 SSR에서 SPA의 Vue.js 프로젝트로 이전 작업 수행
 
 </details>
 <details>
