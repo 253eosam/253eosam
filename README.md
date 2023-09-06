@@ -22,7 +22,7 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 
 #### 위메프 통합 어드민 & 파트너 어드민
 
-특가 스쿼드 참여 : 파트너사의 특가 시스템 환경 개선을위한 목적으로 만들어진 팀.
+> 특가 스쿼드 참여 : 파트너사의 특가 시스템 환경 개선을위한 목적으로 만들어진 팀.
     
 #### 위메프 WSIN Admin
     - Vue2 -> Vue3 마이그레이션 (composition api)
