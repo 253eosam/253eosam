@@ -18,9 +18,11 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 ## 💻 Experience
 
 <details>
-    <summary><b>teamreboott (23.10 ~ Now) | FE</b></summary>
+    <summary><b> teamreboott (23.10 ~ Now) | FE </b></summary>
 
 #### askyour.trade 
+
+> 메일 서비스와 AI를 이용한 한/영 자동 번역, 문맥에 맞는 교정, 메일 초안 작성 등이 있으며, 사용자들이 무역 업무를 더 빠르고 정확하게 처리할 수 있도록 돕습니다.
 
     - 신규 베타 서비스 오픈
     - 메일 서비스
@@ -28,12 +30,13 @@ Motto is 'You can see as much as you know, So let's try to find out!!'
 
 #### askyour.trade Admin
 
-    - askyour.trade를 관리하는 어드민
+> askyour.trade를 관리하는 어드민
+
     - 화면 기획 & 설계 및 UI Framework를 이용한 개발
 
 </details>
 <details>
-    <summary>We Make Price (20.07 ~ 23.05) | FE</summary>
+    <summary> We Make Price (20.07 ~ 23.05) | FE </summary>
 
 #### 위메프 통합 어드민 & 파트너 어드민
 
