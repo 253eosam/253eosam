@@ -48,7 +48,7 @@ MBTI는 INTJ이며, 클라이밍 🧗‍♂️을 취미로 즐기고 있습니�
 
 ## :octocat: My Github Stats
 
-<img align="left" height="200" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=253eosam&hide_border=true&layout=compact" />
-<img align="left" height="200" width="auto" src="https://github-readme-stats.vercel.app/api?username=253eosam&show_icons=true&count_private=true&hide_border=true" />
+<img align="left" height="auto" width="346" src="https://github-readme-stats.vercel.app/api/top-langs/?username=253eosam&hide_border=true&layout=compact" />
+<img align="left" height="auto" width="456" src="https://github-readme-stats.vercel.app/api?username=253eosam&show_icons=true&count_private=true&hide_border=true" />
 
 
