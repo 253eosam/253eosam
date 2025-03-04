@@ -45,11 +45,4 @@ MBTI는 INTJ이며, 클라이밍 🧗‍♂️을 취미로 즐기고 있습니�
 
 - 소프트웨어 개발 역량 강화를 위한 전문 교육 프로그램 수료
 
-<br/>
-
-## :octocat: My Github Stats
-
-<img align="left" height="auto" width="346" src="https://github-readme-stats.vercel.app/api/top-langs/?username=253eosam&hide_border=true&layout=compact" />
-<img align="left" height="auto" width="456" src="https://github-readme-stats.vercel.app/api?username=253eosam&show_icons=true&count_private=true&hide_border=true" />
-
 
