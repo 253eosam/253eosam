@@ -1,5 +1,3 @@
-<div align="center" style="padding: 20px; background-color: #f9fafb; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); width: fit-content; margin: 0 auto;">
-
 ### Contact
 
 📩 이메일 | [253eosam@gmail.com](mailto:253eosam@gmail.com)  
@@ -16,5 +14,3 @@
 ### Blog
 
 📗 블로그 | [velog.io/@253eosam](https://velog.io/@253eosam)  
-
-</div>
