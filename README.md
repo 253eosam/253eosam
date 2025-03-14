@@ -5,8 +5,9 @@
 
 ### Blog
 
-🌐 블로그 | [velog.io/@253eosam](https://velog.io/@253eosam)
+📗 블로그 | [velog.io/@253eosam](https://velog.io/@253eosam)
 
 ### Contact
 
-✉️ 이메일 | [253eosam@gmail.com](mailto:253eosam@gmail.com)
+📩 이메일 | [253eosam@gmail.com](mailto:253eosam@gmail.com)
+
