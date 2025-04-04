@@ -5,6 +5,7 @@
 
 ### Blog
 
+📕 블로그 | [oopy.io](https://253eosam.oopy.io/)  
 📗 블로그 | [velog.io/@253eosam](https://velog.io/@253eosam)
 
 ### Contact
