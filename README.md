@@ -1,7 +1,6 @@
 ### Profile
 
 🧾 이력서 | [rallit.com](https://www.rallit.com/hub/resumes/887085/%EC%9D%B4%EC%84%B1%EC%A4%80)  
-🗂️ 포트폴리오 | [Notion](https://253eosam.notion.site/4-215e0a0c66f7432290df491e20c0fb23?pvs=4)
 
 ### Blog
 
