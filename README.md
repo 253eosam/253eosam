@@ -1,6 +1,6 @@
 ### Profile
 
-🧾 이력서 | [rallit.com](https://www.rallit.com/hub/resumes/887085/%EC%9D%B4%EC%84%B1%EC%A4%80)  
+🧾 이력서 | [github.io](https://253eosam.github.io/resume/)  
 
 ### Blog
 
