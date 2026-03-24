@@ -4,7 +4,7 @@
 
 ### Blog
 
-📗 블로그 | [velog.io/@253eosam](https://velog.io/@253eosam)
+📗 블로그 | [github.io/@253eosam](https://253eosam.github.io/)
 
 ### Contact
 
