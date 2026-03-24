@@ -1,10 +1,10 @@
 ### Profile
 
-🧾 이력서 | [github.io](https://253eosam.github.io/resume/)  
+🧾 이력서 | [Resume](https://253eosam.github.io/resume/)  
 
 ### Blog
 
-📗 블로그 | [github.io/@253eosam](https://253eosam.github.io/)
+📗 블로그 | [github.io](https://253eosam.github.io/)
 
 ### Contact
 
